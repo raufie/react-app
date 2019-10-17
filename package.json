@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "link-to-your-repository",
+  "homepage": "rauf-source.github.io/react-app",
   "dependencies": {
     "bootstrap": "^4.1.1",
     "gh-pages": "^2.1.1",
